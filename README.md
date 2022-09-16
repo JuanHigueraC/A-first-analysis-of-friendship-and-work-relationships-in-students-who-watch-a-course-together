@@ -10,4 +10,5 @@ And was presented for the course **Introduction To Sociophysics** of the Nationa
 
 Using tools from network science we study the structure of relations of friendship and work.
 
-![Image text]([https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg](https://github.com/JuanHigueraC/A-first-analysis-of-friendship-and-work-relationships-in-students-who-watch-a-course-together/blob/main/redes%20amigos.PNG)
+![Image text](https://github.com/zzuljs/JuanHigueraC/blob/master/A-first-analysis-of-friendship-and-work-relationships-in-students-who-watch-a-course-together
+/redes amigos.PNG)
