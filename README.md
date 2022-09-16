@@ -9,3 +9,5 @@ This project was realized by
 And was presented for the course **Introduction To Sociophysics** of the National University of Colombia.
 
 Using tools from network science we study the structure of relations of friendship and work.
+
+![Screenshot](redes amigos.PNG)
