@@ -24,6 +24,7 @@ Como un recuento de lo anterior, las medidas a utilizar se presentan a continuac
 - Cutpoints
 
 ![image](https://github.com/DiegoHerediaF/A-first-analysis-of-friendship-and-work-relationships-in-students-who-take-a-course-together/blob/16b61f32307bacd5285634acc33994d97f9eaba3/you_consider_them_friends.PNG)
+
 **Figure 1.** Example of the functional connectivity of one mouse session according to reward and non-reward conditions.
 
 ![image](https://github.com/DiegoHerediaF/A-first-analysis-of-friendship-and-work-relationships-in-students-who-take-a-course-together/blob/16b61f32307bacd5285634acc33994d97f9eaba3/they_helped_you.PNG)
