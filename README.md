@@ -1,4 +1,4 @@
-# A-first-analysis-of-friendship-and-work-relationships-in-students-who-watch-a-course-together
+# A First Analysis of Friendship and Work Relationships in Students who Take a Course Together
 
 This project was realized by 
 
