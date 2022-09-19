@@ -23,6 +23,15 @@ Como un recuento de lo anterior, las medidas a utilizar se presentan a continuac
 - Hubbs/Authorities
 - Cutpoints
 
+![image](https://github.com/DiegoHerediaF/A-first-analysis-of-friendship-and-work-relationships-in-students-who-take-a-course-together/blob/16b61f32307bacd5285634acc33994d97f9eaba3/you_consider_them_friends.PNG)
+**Figure 1.** Example of the functional connectivity of one mouse session according to reward and non-reward conditions.
+
+![image](https://github.com/DiegoHerediaF/A-first-analysis-of-friendship-and-work-relationships-in-students-who-take-a-course-together/blob/16b61f32307bacd5285634acc33994d97f9eaba3/they_helped_you.PNG)
+**Figure 2.** Example of the functional connectivity of one mouse session according to reward and non-reward conditions.
+
+![image](https://github.com/DiegoHerediaF/A-first-analysis-of-friendship-and-work-relationships-in-students-who-take-a-course-together/blob/16b61f32307bacd5285634acc33994d97f9eaba3/you_helped%20them.PNG)
+**Figure 3.** Example of the functional connectivity of one mouse session according to reward and non-reward conditions.
+
 La relación de amistad demuestra ser la relación más clusterizada, transitiva y menos densa de las tres estudiadas, lo que concuerda con lo que se espera para una relación como la amistad, caracterizada por la fortaleza de sus vínculos en comparación con las relaciones de ayuda académica entre estudiantes. Por otra parte, la reciprocidad de las relaciones con respecto a la componente principal, altamente interconectada, indica que los criterios de los actores sobre lo que ser amigo de alguien significa no difieren significativamente, salvo en casos específicos como los nodos 11 y 21. Las mediciones de centralidad en la relación de amistad nos permiten determinar a los nodos 7 y 9 como los más importantes de la red, en el sentido de que propician la interacción de la componente principal con los nodos de la periferia, y además son nodos fundamentales en mantener unido y clusterizado a este grupo, junto con el nodo 2.
 
 Las relaciones de ayuda o colaboración académica demuestran componer una red más extendida y robusta, donde los nodos que pertenecen a la periferia se relacionan entre sí sin recurrir a la componente principal. Esto se evidencia en las medidas de transitividad y densidad para estas relaciones, siendo menores a los valores obtenidos para la amistad, lo que también indica una menor cohesión entre los nodos, indicando que las relaciones académicas son vínculos más débiles y de más alcance que las relaciones de amistad. Se encontró también que pese a lo anterior, en estas relaciones los nodos que mayor centralidad acumulan son aquellos de la componente principal, pues al ser un grupo de amigos en el curso, es probable y más frecuente que se ayuden entre si de lo que nodos de la periferia lo hacen.
