@@ -10,7 +10,11 @@ And was presented for the course **Introduction To Sociophysics** of the Nationa
 
 Using tools from network science we study the structure of relations of friendship and work.
 
-En este trabajo se estudian las relaciones de amistad y colaboración académica, en el sentido de ser ayudado y haber ayudado, sobre un grupo de 24 estudiantes encuestados que ven conjuntamente una materia. Este grupo no corresponde con el total de estudiantes en el curso, y se centra principalmente en un grupo de nodos altamente interconectados que representan a un grupo de amigos. Se estudia la relación de este grupo con los nodos aledaños y a partir de la transitividad y densidad del grupo se evidencia que la relación de amistad implica un vinculo más fuerte entre los actores que los une y clusteriza más comparados con las relaciones de ayuda académica.  De la componente principal de amigos se encontraron dos subgrupos, uno relacionado con la intermediación de la componente principal con el resto de nodos y otro relacionado con la cohesión al interior del grupo. Se usó la reciprocidad de las relaciones y la correspondencia entre las respuestas de los encuestados como criterio de confiabilidad de las respuestas. 
+## Description 
+
+En este trabajo se estudian las relaciones de amistad y colaboración académica, en el sentido de ser ayudado y haber ayudado, sobre un grupo de 24 estudiantes encuestados que ven conjuntamente una materia. Este grupo no corresponde con el total de estudiantes en el curso, y se centra principalmente en una componente principal de nodos altamente interconectados que representan a un conjunto de amigos. Se estudia la relación de esta componente con los nodos aledaños. A partir de la transitividad y densidad del grupo se evidencia que la relación de amistad implica un vinculo más fuerte entre los actores que los une y clusteriza, comparado con las relaciones de ayuda académica. De la componente principal de amigos se encontraron dos subgrupos, uno relacionado con la intermediación de la componente principal con el resto de nodos y otro relacionado con la cohesión interna del grupo. 
+
+## Methods
 
 Como un recuento de lo anterior, las medidas a utilizar se presentan a continuación
 
@@ -23,15 +27,21 @@ Como un recuento de lo anterior, las medidas a utilizar se presentan a continuac
 - Hubbs/Authorities
 - Cutpoints
 
+## Results
+
 ![image](https://github.com/DiegoHerediaF/A-first-analysis-of-friendship-and-work-relationships-in-students-who-take-a-course-together/blob/16b61f32307bacd5285634acc33994d97f9eaba3/you_consider_them_friends.PNG)
 
 **Figure 1.** Example of the functional connectivity of one mouse session according to reward and non-reward conditions.
 
 ![image](https://github.com/DiegoHerediaF/A-first-analysis-of-friendship-and-work-relationships-in-students-who-take-a-course-together/blob/16b61f32307bacd5285634acc33994d97f9eaba3/they_helped_you.PNG)
+
 **Figure 2.** Example of the functional connectivity of one mouse session according to reward and non-reward conditions.
 
 ![image](https://github.com/DiegoHerediaF/A-first-analysis-of-friendship-and-work-relationships-in-students-who-take-a-course-together/blob/16b61f32307bacd5285634acc33994d97f9eaba3/you_helped%20them.PNG)
+
 **Figure 3.** Example of the functional connectivity of one mouse session according to reward and non-reward conditions.
+
+## Conclusions
 
 La relación de amistad demuestra ser la relación más clusterizada, transitiva y menos densa de las tres estudiadas, lo que concuerda con lo que se espera para una relación como la amistad, caracterizada por la fortaleza de sus vínculos en comparación con las relaciones de ayuda académica entre estudiantes. Por otra parte, la reciprocidad de las relaciones con respecto a la componente principal, altamente interconectada, indica que los criterios de los actores sobre lo que ser amigo de alguien significa no difieren significativamente, salvo en casos específicos como los nodos 11 y 21. Las mediciones de centralidad en la relación de amistad nos permiten determinar a los nodos 7 y 9 como los más importantes de la red, en el sentido de que propician la interacción de la componente principal con los nodos de la periferia, y además son nodos fundamentales en mantener unido y clusterizado a este grupo, junto con el nodo 2.
 
