@@ -16,26 +16,26 @@ En este trabajo se estudian las relaciones de amistad y colaboración académica
 
 ## Methods
 
-Para caracterizar las relaciones de amistad y de trabajo, a los estudiantes se les realizaron las siguientes preguntas
+Para caracterizar las relaciones de amistad y de trabajo, a los estudiantes se les realizaron las siguientes preguntas,
 
 - De la lista de estudiantes, seleccione a quienes a lo largo de la carrera de física le han ayudado a estudiar o en actividades académicas.
 - De la lista de estudiantes, seleccione a quienes a lo largo de la carrera de física usted les ha ayudado a estudiar o en actividades académicas. 
 - De la lista de estudiantes, seleccione a sus amigos.
 
-Despues de la extraccion de los datos se construyeron con UCINET software las redes dirigidas y binarias que caracterizaban estas relaciones. Se utilizaron medidas de redes tanto locales como globales para caracterizar su topologia e identificar a los nodos mas importantes en terminos de como ayudan a comunicar y mantener unida a la red. Las medidas utilizadas se presentan a continuación
+Despues de la extraccion de los datos se construyeron con UCINET software las redes dirigidas y binarias que caracterizaban estas relaciones. Se utilizaron medidas de redes tanto locales como globales para caracterizar su topologia e identificar a los nodos mas importantes en terminos de como ayudan a comunicar y mantener unida a la red. Las medidas utilizadas se presentan a continuación,
 
-- Grado/centralidad de grado
-- Densidad de los grafos
-- Centralidad de intermediación, betweenness
-- Coeficiente de Clusterización
-- Transitividad
-- Reciprocidad
+- Degree Centrality
+- Graph Density
+- Betweenness Centrality
+- Clustering Coefficient
+- Transitivity
+- Reciprocity
 - Hubbs/Authorities
 - Cutpoints
 
 ## Results
 
-A continuacion se muestran las redes encontradas para la relacion de amistad, y la relacion de trabajo donde se distinguen dos tipo: usted ha ayudado a quien y quienes lo han ayudado a usted
+A continuacion se muestran las redes encontradas para la relacion de amistad, y la relacion de trabajo donde se distinguen dos tipos: usted ha ayudado a quien y quienes lo han ayudado a usted en actividades academicas a lo largo de la carrera
 
 ![image](https://github.com/DiegoHerediaF/A-first-analysis-of-friendship-and-work-relationships-in-students-who-take-a-course-together/blob/16b61f32307bacd5285634acc33994d97f9eaba3/you_consider_them_friends.PNG)
 
