@@ -16,7 +16,13 @@ En este trabajo se estudian las relaciones de amistad y colaboración académica
 
 ## Methods
 
-Como un recuento de lo anterior, las medidas a utilizar se presentan a continuación
+Para caracterizar las relaciones de amistad y de trabajo, a los estudiantes se les realizaron las siguientes preguntas
+
+- De la lista de estudiantes, seleccione a quienes a lo largo de la carrera de física le han ayudado a estudiar o en actividades académicas.
+- De la lista de estudiantes, seleccione a quienes a lo largo de la carrera de física usted les ha ayudado a estudiar o en actividades académicas. 
+- De la lista de estudiantes, seleccione a sus amigos.
+
+Despues de la extraccion de los datos se construyeron con UCINET software las redes dirigidas y binarias que caracterizaban estas relaciones. Se utilizaron medidas de redes tanto locales como globales para caracterizar su topologia e identificar a los nodos mas importantes en terminos de como ayudan a comunicar y mantener unida a la red. Las medidas utilizadas se presentan a continuación
 
 - Grado/centralidad de grado
 - Densidad de los grafos
@@ -29,17 +35,19 @@ Como un recuento de lo anterior, las medidas a utilizar se presentan a continuac
 
 ## Results
 
+A continuacion se muestran las redes encontradas para la relacion de amistad, y la relacion de trabajo donde se distinguen dos tipo: usted ha ayudado a quien y quienes lo han ayudado a usted
+
 ![image](https://github.com/DiegoHerediaF/A-first-analysis-of-friendship-and-work-relationships-in-students-who-take-a-course-together/blob/16b61f32307bacd5285634acc33994d97f9eaba3/you_consider_them_friends.PNG)
 
-**Figure 1.** Example of the functional connectivity of one mouse session according to reward and non-reward conditions.
+**Figure 1.** Red de amistad, donde se observa la componente principal como el subgrupo de nodos altamente interconectado.
 
 ![image](https://github.com/DiegoHerediaF/A-first-analysis-of-friendship-and-work-relationships-in-students-who-take-a-course-together/blob/16b61f32307bacd5285634acc33994d97f9eaba3/they_helped_you.PNG)
 
-**Figure 2.** Example of the functional connectivity of one mouse session according to reward and non-reward conditions.
+**Figure 2.** Red dirigida donde los links indican quienes lo han ayudado a usted en actividades academicas a lo largo de la carrera.
 
 ![image](https://github.com/DiegoHerediaF/A-first-analysis-of-friendship-and-work-relationships-in-students-who-take-a-course-together/blob/16b61f32307bacd5285634acc33994d97f9eaba3/you_helped%20them.PNG)
 
-**Figure 3.** Example of the functional connectivity of one mouse session according to reward and non-reward conditions.
+**Figure 3.** Red dirigida donde los links indican a quienes usted ha ayudado en actividades academicas a lo largo de la carrera.
 
 ## Conclusions
 
